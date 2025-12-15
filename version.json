@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "download_url": "https://your-domain.com/releases/FFTool_v1.0.0.exe",
+    "release_notes": "- Initial release\n- Facebook automation features\n- Multi-account management",
+    "required": false
+}
