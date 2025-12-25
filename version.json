@@ -1,5 +1,5 @@
 {
-    "version": "1.2.2",
-    "download_url": "https://github.com/phattra-dev/FFTOOL/releases/download/v1.2.2/FFTool_Distribution.zip",
+    "version": "1.2.3",
+    "download_url": "https://github.com/phattra-dev/FFTOOL/releases/download/v1.2.3/FFTool_Distribution.zip",
     "release_notes": "- Dynamic status update\n- New feature Poke Friend\n- New Feature Comment reply\n- New feature Report\n- Strong slealth slowmo mode for safety\n- Ramdom action in schedule when multiple action selected"
 }
